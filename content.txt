@@ -1,2 +1,2 @@
 init version 1.0.0
-login function completed
+login function completed.
